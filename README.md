@@ -4,7 +4,7 @@ Lythrum リスラム 禊荻（千屈菜）
 
 ## Description
 
-The place I learn Lunix and C.
+Where I learn Linux and C.
 
 ## Progress
 
