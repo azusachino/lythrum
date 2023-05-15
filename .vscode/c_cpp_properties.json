@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${default}"
+                "${default}",
+                "include/"
             ],
             "defines": [],
             "cStandard": "c17",
